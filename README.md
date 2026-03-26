@@ -27,7 +27,7 @@ This group focus on learning actions and future dynamics together.
 
 **`26.3`** **Fast-WAM**: *Do World Action Models Need Test-time Future Imagination?* [arXiv](https://arxiv.org/abs/2603.16666) [Project](https://yuantianyuan01.github.io/FastWAM/) [Code](https://github.com/yuantianyuan01/FastWAM)
 
-**`26.3`** **DiT4DiT**:*Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control* [arXiv](https://arxiv.org/abs/2603.10448) [Project](https://dit4dit.github.io/)
+**`26.3`** **DiT4DiT**: *Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control* [arXiv](https://arxiv.org/abs/2603.10448) [Project](https://dit4dit.github.io/)
 
 **`26.2`** **DreamZero**: *World Action Models are Zero-shot Policies*. [arXiv](https://arxiv.org/abs/2602.15922) [Project](https://dreamzero0.github.io) [Code](https://github.com/dreamzero0/dreamzero)
 
