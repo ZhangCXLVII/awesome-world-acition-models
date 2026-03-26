@@ -14,9 +14,9 @@ If we missed a relevant paper, project page, or code release, feel free to open 
 
 ## Surveys
 
-- *Do World Action Models Generalize Better than VLAs? A Robustness Study*. **`26.3`** [arXiv](https://arxiv.org/abs/2603.22078)
+**`26.3`** *Do World Action Models Generalize Better than VLAs? A Robustness Study*. [arXiv](https://arxiv.org/abs/2603.22078)
 
-- *Understanding World or Predicting Future?: A Comprehensive Survey of World Models*. **`24.11`** [arXiv](https://arxiv.org/abs/2411.14499)
+**`24.11`** *Understanding World or Predicting Future?: A Comprehensive Survey of World Models*. [arXiv](https://arxiv.org/abs/2411.14499)
 
 
 ## Learning Video Model and Policy
@@ -50,12 +50,13 @@ This group focus on learning actions and future dynamics together.
 
 This group focus on video generation or future visual rollouts as a central part of policy learning.
 
-- **VAMPO**: *VAMPO: Policy Optimization for Improving Visual Dynamics in Video Action Models*. [arXiv](https://arxiv.org/abs/2603.19370) [Project](https://vampo-robot.github.io/VAMPO) [Code](https://github.com/OpenHelix-Team/VAMPO)
-- **S-VAM**: *S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight*. [arXiv](https://arxiv.org/abs/2603.16195) [Project](https://haodong-yan.github.io/S-VAM/)
-- **Cosmos Policy**: *Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning*. [arXiv](https://arxiv.org/abs/2601.16163) [Project](https://research.nvidia.com/labs/dir/cosmos-policy/) [Code](https://github.com/nvlabs/cosmos-policy)
-- **Large Video Planner**: *Large Video Planner Enables Generalizable Robot Control*. [arXiv](https://arxiv.org/abs/2512.15840) [Project](https://www.boyuan.space/large-video-planner/) [Code](https://github.com/buoyancy99/large-video-planner/tree/main)
-- **VideoAgent**: *VideoAgent: Self-Improving Video Generation for Embodied Planning*. [arXiv](https://arxiv.org/abs/2410.10076) [Project](https://video-as-agent.github.io/) [Code](https://github.com/Video-as-Agent/VideoAgent)
-- **DTS**: *Draft-and-Target Sampling for Video Generation Policy*. [arXiv](https://arxiv.org/abs/2603.13438) [Code](https://github.com/ChaosTheProducer/DTS-AVDC)
+**`26.3`** **VAMPO**: *VAMPO: Policy Optimization for Improving Visual Dynamics in Video Action Models*. [arXiv](https://arxiv.org/abs/2603.19370) [Project](https://vampo-robot.github.io/VAMPO) [Code](https://github.com/OpenHelix-Team/VAMPO)
+**`26.3`** **EVA**: *EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards* [arXiv](https://arxiv.org/abs/2603.17808) [Project](https://eva-project-page.github.io/) [Code](https://github.com/RobbinW/EVA)
+**`26.3`** **S-VAM**: *S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight*. [arXiv](https://arxiv.org/abs/2603.16195) [Project](https://haodong-yan.github.io/S-VAM/)
+**`26.1`** **Cosmos Policy**: *Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning*. [arXiv](https://arxiv.org/abs/2601.16163) [Project](https://research.nvidia.com/labs/dir/cosmos-policy/) [Code](https://github.com/nvlabs/cosmos-policy)
+**`25.12`** **Large Video Planner**: *Large Video Planner Enables Generalizable Robot Control*. [arXiv](https://arxiv.org/abs/2512.15840) [Project](https://www.boyuan.space/large-video-planner/) [Code](https://github.com/buoyancy99/large-video-planner/tree/main)
+**`25.9`** **DTS**: *Draft-and-Target Sampling for Video Generation Policy*. [arXiv](https://arxiv.org/abs/2603.13438) [Code](https://github.com/ChaosTheProducer/DTS-AVDC)
+**`24.10`** **VideoAgent**: *VideoAgent: Self-Improving Video Generation for Embodied Planning*. [arXiv](https://arxiv.org/abs/2410.10076) [Project](https://video-as-agent.github.io/) [Code](https://github.com/Video-as-Agent/VideoAgent)
 
 
 ## Policy Head
