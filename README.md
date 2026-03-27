@@ -23,7 +23,7 @@ If we missed a relevant paper, project page, or code release, feel free to open 
  
 This group focus on learning actions and future dynamics together.
 
-**`26.3`** **LeWorldModel**: *LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels*. [arXiv](https://arxiv.org/abs/2603.19312) [Project](https://le-wm.github.io/) [Code](https://github.com/lucas-maes/le-wm)
+**`26.3`** **LeWorldModel**: *Stable End-to-End Joint-Embedding Predictive Architecture from Pixels*. [arXiv](https://arxiv.org/abs/2603.19312) [Project](https://le-wm.github.io/) [Code](https://github.com/lucas-maes/le-wm)
 
 **`26.3`** **Fast-WAM**: *Do World Action Models Need Test-time Future Imagination?* [arXiv](https://arxiv.org/abs/2603.16666) [Project](https://yuantianyuan01.github.io/FastWAM/) [Code](https://github.com/yuantianyuan01/FastWAM)
 
