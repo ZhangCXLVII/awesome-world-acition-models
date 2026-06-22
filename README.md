@@ -10,6 +10,7 @@ If we missed a relevant paper, project page, or code release, feel free to open 
 - [Learning Video Model and Policy](#learning-video-model-and-policy)
 - [Video Model](#video-model)
 - [Policy Head](#policy-head)
+- [Following List](#following-list)
 
 
 ## Surveys
@@ -107,6 +108,33 @@ This group focuses on transferring motion, semantics, or other kind of informati
 - **Grounding Video Models to Actions through Goal-Conditioned Exploration**. [arXiv](https://arxiv.org/abs/2411.07223) [Project](https://video-to-action.github.io/)
 - **Inverse Probabilistic Adaptation**: *Solving New Tasks by Adapting Internet Video Knowledge*. [arXiv](https://arxiv.org/abs/2504.15369) [Project](https://diffusion-supervision.github.io/adapt2act/)
 - **Solving Robotic Tasks via Self-Adapting Improvement Loops with Internet Video Knowledge**. [OpenReview](https://openreview.net/forum?id=OAsXsLV2gg)
+
+## Following List
+
+---
+### Laboratories
+* [Berkeley Robot Learning Lab](https://rll.berkeley.edu/research.html)
+* [Berkeley Robotic AI & Learning Lab](http://rail.eecs.berkeley.edu/index.html)
+* [CMU Robotics Institute](https://www.ri.cmu.edu/)
+* [Stanford Vision and Learning Lab (SVL)](https://svl.stanford.edu/)
+* [UT Austin Robot Perception and Learning Lab](https://rpl.cs.utexas.edu/) [[Github]](https://github.com/UT-Austin-RPL)
+* [TU Darmstadt Intelligent Autonomous Systems: Machine Learning for Intelligent Autonomous Robots](https://www.ias.informatik.tu-darmstadt.de/#IAS)
+* [ETH Robotic Systems Lab](https://rsl.ethz.ch/)
+---
+### Active Researchers
+| Name                                                         | Institution            | Name                                                         | Institution                  |
+| ------------------------------------------------------------ | ---------------------- | ------------------------------------------------------------ | ---------------------------- |
+| [Pieter Abbeel](https://i3.cs.berkeley.edu/)                 | UC Berkeley            | [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) | UC Berkeley                  |
+| [Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters) | TU Darmstadt           | [Sethu Vijayakumar](https://homepages.inf.ed.ac.uk/svijayak/) | University of Edinburgh      |
+| [Huaping Liu](https://sites.google.com/site/thuliuhuaping)   | Tsinghua University    | [Andy Zeng](https://andyzeng.github.io/) [[Github]](https://github.com/andyzeng) | Google Brain                 |
+| [Yuke Zhu](https://www.cs.utexas.edu/~yukez/) [[Github]](https://github.com/yukezhu) | UT-Austin              | [Cewu Lu](https://www.mvig.org/)                             | Shanghai Jiaotong University |
+| [Huazhe Xu](http://hxu.rocks/)                               | Tsinghua University    | [Edward Johns](https://www.robot-learning.uk/)               | Imperial College London      |
+| [Hao Dong](https://zsdonghao.github.io/)                     | Peking University      | [Yunzhu Li](https://yunzhuli.github.io/) [[Github]](https://github.com/yunzhuli) | UIUC                         |
+| [Yang Gao](http://people.iiis.tsinghua.edu.cn/~gaoyang/yang-gao.weebly.com/index.html) | Tsinghua University    | [Xiaolong Wang](https://xiaolonw.github.io/index.html)       | UC San Diego                 |
+| [Nicklas Hansen](https://nicklashansen.github.io/)           | UC San Diego           | [Wenyu Liang](https://www.liangwenyu.com/welcome)            | A star                       |
+| [Abhinav Valada](https://scholar.google.com/citations?hl=en&user=LcARjz0AAAAJ&view_op=list_works&sortby=pubdate) | University of Freiburg | [Dorsa Sadigh](https://iliad.stanford.edu/people/)           | Stanford                     |
+| [Hao Su](https://cseweb.ucsd.edu/~haosu/) | UC San Diego | [He Wang](https://scholar.google.com/citations?user=roCAWkoAAAAJ&hl=en)           | Peking University                     |
+| [Siyuan Huang](https://siyuanhuang.com/) | BIGAI | -           | -                     |
 
 
 ## Acknowledgements
